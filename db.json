@@ -68,6 +68,21 @@
 		
         }
     ],
+	"voucher":[
+        { 
+			
+			"status": true,
+			"message": "Success!",
+			"data": {
+				"kode_voucher" : "10301CZUFE",
+				"paket" : "All",
+				"jenis_voucher" : "HARGA",
+				"diskon": "50000"
+			},
+			"error_lists": []
+		
+        }
+    ],
     "summary_detail": [
         { "id": 1, 
             "menginap": "tidak", 
