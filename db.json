@@ -70,7 +70,6 @@
     ],
 	"voucher":[
         { 
-			
 			"status": true,
 			"message": "Success!",
 			"data": {
@@ -80,7 +79,35 @@
 				"diskon": "50000"
 			},
 			"error_lists": []
-		
+        },
+		{ 
+			"status": false,
+			"message": "Oopsss, kode vouchernya salah (bunda)", -> berdasarkan gender
+			"data": [],
+			"error_lists": []
+        }
+    ],
+	"total_harga":[
+        { 
+			"status": true,
+			"message": "Success!",
+			"data": {
+				"ttl_biaya" : "181200"
+			},
+			"error_lists": []
+        }
+    ],
+		"bank":[
+        { 
+			"status": true,
+			"message": "Success!",
+			"data": {
+				"id_bank" : "1",
+				"nama_bank" : "Mandiri",
+				"no_rekening" : "129 001 1586761",
+				"nama_pemilik" : "Indah Ratnasari"			
+			},
+			"error_lists": []
         }
     ],
     "summary_detail": [
