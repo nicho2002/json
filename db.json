@@ -107,7 +107,7 @@
         { 
 			"status": true,
 			"message": "Success!",
-			"data": [
+			"data": 
 				{
 					"id_bank" : "1",
 					"nama_bank" : "Mandiri",
@@ -115,12 +115,11 @@
 					"nama_pemilik": "Indah Ratnasari"
 				},
 				{
-					"id_bank" : "1",
+					"id_bank" : "2",
 					"nama_bank" : "Mandiri",
 					"no_rekening" : "129 001 1586761",
 					"nama_pemilik": "Indah Ratnasari"
 				},
-			],
 			"error_lists": []
         }
 	],
