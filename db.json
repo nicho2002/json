@@ -98,12 +98,14 @@
 			"status": true,
 			"message": "Success!",
 			"data": 
-				{
-					"id_bank" : "1",
-					"nama_bank" : "Mandiri",
-					"no_rekening" : "129 001 1586761",
-					"nama_pemilik": "Indah Ratnasari"
-				},
+				[
+					{
+						"id_bank" : "1",
+						"nama_bank" : "Mandiri",
+						"no_rekening" : "129 001 1586761",
+						"nama_pemilik": "Indah Ratnasari"
+					}
+				],
 			"error_lists": []
         }
 	],
