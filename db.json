@@ -82,7 +82,7 @@
         },
 		{ 
 			"status": false,
-			"message": "Oopsss, kode vouchernya salah (bunda)", -> berdasarkan gender
+			"message": "Oopsss, kode vouchernya salah (bunda) -> berdasarkan gender", 
 			"data": [],
 			"error_lists": []
         }
