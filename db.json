@@ -1,28 +1,54 @@
 {
-    "posts": [
-    {
-      "id": 3,
-      "nama": "Budi"
-    }
-  ],
-    "summary":[
+    "biodata":[
         { 
-            "id": 1, 
-            "nama": "Irvan",
-            "alamat" : "jalan kuningan timur raya",
-            "company" : "PT. Asiatek Indonesia",
-            "job_title" : "IT Staff",
-            "phone_number" : "081024042018",
-            "email" : "irvan27@yahoo.co.id"
-        },
-        { 
-            "id": 2, 
-            "nama": "Ferdinand",
-            "alamat" : "jalan Mampang Prapatan",
-            "company" : "PT. Asiatek Indonesia",
-            "job_title" : "IT Staff",
-            "phone_number" : "081024042018",
-            "email" : "irvan27@yahoo.co.id"
+			
+			"status": true,
+			"message": "Success!",
+			"data": {
+				"id": 103,
+				"nama": "Muhammad Amin",
+				"jenis_kelamin": "P",
+				"photo_profile": "https://lh6.googleusercontent.com/-gc24lBCiX1k/AAAAAAAAAAI/AAAAAAAAAJA/FIIU0aMDslc/s96-c/photo.jpg",
+				"email": "nicho@hamengku.com",
+				"no_hp": "08943040333",
+				"lokasi": "Berau Regency, East Kalimantan, Indonesia",
+				"providers": "Google",
+				"id_firebase": "fzWAI68ticE:APA91bFgfAsMpwPwxW0JmDoYyVVajeUNiP59JoCV4bf_arP_zJHF5c5tUPsUj6SVXZb4w4ObxNfI3BxhLRx3tUKEkhXId5FoV2-9i-zaLIeFVr48h_PtNoAuG_vwyq7yAzLVFD0TqRIT",
+				"username_chat": "muhammad.amin1406621",
+				"token_chat": "MTAzI011aGFtbWFkIEFtaW4jbXVoYW1tYWQuYW1pbjE0MDZAZ21haWwuY29tIzIwMTgtMTAtMTUgMTY6MDQ6NTM=",
+				"daftar_anak": [
+					{
+						"id_family": 133,
+						"nama": "Diani Safitri",
+						"tgl_lahir": "2011-07-31",
+						"jenis_kelamin": "L",
+						"catatan_khusus": "Tidak suka makan pedas"
+					},
+					{
+						"id_family": 134,
+						"nama": "Anisa Dina",
+						"tgl_lahir": "2011-08-25",
+						"jenis_kelamin": "L",
+						"catatan_khusus": "Alergi kacang"
+					},
+					{
+						"id_family": 146,
+						"nama": "Anisa Fitri",
+						"tgl_lahir": "2010-09-29",
+						"jenis_kelamin": "P",
+						"catatan_khusus": "-"
+					},
+					{
+						"id_family": 189,
+						"nama": "Anisa Dian",
+						"tgl_lahir": "2010-12-13",
+						"jenis_kelamin": "P",
+						"catatan_khusus": "-"
+					}
+				]
+			},
+			"error_lists": []
+		
         }
     ],
     "summary_detail": [
