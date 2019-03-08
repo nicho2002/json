@@ -79,6 +79,12 @@
 				"diskon": "50000"
 			},
 			"error_lists": []
+        },
+		{ 
+			"status": false,
+			"message": "Oopsss, kode vouchernya salah (bunda) ->  berdasarkan gender",
+			"data": [],
+			"error_lists": []
         }
     ],
 	"total_harga":[
