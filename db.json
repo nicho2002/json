@@ -53,7 +53,7 @@
     ],
     "summary_detail": [
         { "id": 1, 
-            "menginap": "Ya", 
+            "menginap": "tidak", 
             "status": "Menikah",
             "punya_anak" : "Ya",
             "agama" : "Islam",
