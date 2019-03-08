@@ -115,7 +115,7 @@
 			"error_lists": []
         }
 	],
-	"total_harga":[
+	"total_harga":[ 
         { 
 			"status": true,
 			"message": "Success!",
