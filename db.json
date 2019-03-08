@@ -51,6 +51,18 @@
 		
         }
     ],
+	"full_book":[
+        { 
+			
+			"status": true,
+			"message": "Success!",
+			"data": {
+				"tanggal": ["2017-09-27","2017-09-28","2017-09-29","2017-09-30"]
+			},
+			"error_lists": []
+		
+        }
+    ],
     "summary_detail": [
         { "id": 1, 
             "menginap": "tidak", 
