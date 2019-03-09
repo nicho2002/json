@@ -50,7 +50,7 @@
 			"error_lists": []
 		
         },
-	"full_book":[
+	"full_book":
         { 
 			
 			"status": true,
@@ -65,9 +65,8 @@
 			},
 			"error_lists": []
 		
-        }
-    ],
-	"voucher":[
+        },
+	"voucher":
         { 
 			"status": true,
 			"message": "Yeay, (Bunda) (-> berdasarkan gender) dapat potongan",
@@ -90,9 +89,8 @@
 			"message": "Oopsss, kode vouchernya sudah digunakan (bunda) ->  berdasarkan gender",
 			"data": [],
 			"error_lists": []
-        }
-    ],
-	"bank":[
+        },
+	"bank":
         { 
 			"status": true,
 			"message": "Success!",
@@ -112,9 +110,8 @@
 					}
 				],
 			"error_lists": []
-        }
-	],
-	"total_harga":[ 
+        },
+	"total_harga":
         { 
 			"status": true,
 			"message": "Success!",
@@ -123,5 +120,4 @@
 			},
 			"error_lists": []
         }
-    ]
 }
