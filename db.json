@@ -1,5 +1,5 @@
 {
-    "biodata":[
+    "biodata":
         { 
 			
 			"status": true,
@@ -49,8 +49,7 @@
 			},
 			"error_lists": []
 		
-        }
-    ],
+        },
 	"full_book":[
         { 
 			
