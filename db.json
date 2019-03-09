@@ -124,5 +124,15 @@
 			},
 			"error_lists": []
         }
+    ],
+	"total_harga1":[ 
+        { 
+			"status": true,
+			"message": "Success!",
+			"data": {
+				"ttl_biaya" : "181200"
+			},
+			"error_lists": []
+        }
     ]
 }
