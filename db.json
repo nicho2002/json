@@ -50,8 +50,8 @@
 			"error_lists": []
 		
         },
-		"full_book":
-        {  
+	"full_book":
+        { 
 			
 			"status": true,
 			"message": "Success!",
@@ -64,10 +64,36 @@
 					"2019-03-21",
 					"2019-03-22",
 					"2019-03-23",
-					"2019-03-30",
+					"2019-03-30"
 				]
 			},
 			"error_lists": []
 		
+        },
+	"voucher":
+        { 
+			"status": true,
+			"message": "Yeay, (Bunda) (-> berdasarkan gender) dapat potongan",
+			"data": {
+				"kode_voucher" : "10301CZUFE",
+				"paket" : "All",
+				"jenis_voucher" : "HARGA",
+				"diskon": "50000"
+			},
+			"error_lists": []
+        },
+	"voucher_err_1":
+        { 
+			"status": false,
+			"message": "Oopsss, kode vouchernya salah (bunda) ->  berdasarkan gender",
+			"data": [],
+			"error_lists": []
+        },
+	"voucher_err_2":
+        { 
+			"status": false,
+			"message": "Oopsss, kode vouchernya sudah digunakan (bunda) ->  berdasarkan gender",
+			"data": [],
+			"error_lists": []
         }
 }
