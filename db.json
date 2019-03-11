@@ -76,20 +76,19 @@
 				"jenis_voucher" : "HARGA",
 				"diskon": "50000"
 			},
-			"error_lists": [],
-			{ 
+			"data_error_1": {
 				"status": false,
 				"message": "Oopsss, kode vouchernya salah (bunda) ->  berdasarkan gender",
 				"data": [],
 				"error_lists": []
 			},
-			{ 
+			"data_error_2": {
 				"status": false,
 				"message": "Oopsss, kode vouchernya sudah digunakan (bunda) ->  berdasarkan gender",
 				"data": [],
 				"error_lists": []
-			}
-
+			},
+			"error_lists": []
         },
 	"bank":
         { 
